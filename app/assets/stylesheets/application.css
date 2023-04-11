@@ -12,4 +12,39 @@
  *
  *= require_tree .
  *= require_self
- */
+*/
+ 
+table th {
+  background-color: #fbc25b;
+  padding: 10px 20px;
+}
+
+table td {
+  background-color: #f9ecd5;
+  padding: 10px 20px;
+}
+
+.success {
+  background-color: #ccf;
+  padding: 5px;
+}
+.notice {
+  background-color: #ccf;
+  padding: 5px;
+}
+.failure {
+  background-color: rgb(255, 98, 0);
+  padding: 5px;
+}
+
+.card-body FooterBody {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+ 
+
+
+
